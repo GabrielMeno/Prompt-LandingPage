@@ -87,5 +87,3 @@ Especificações técnicas e visuais:[1]
 - Navegação interna utiliza smooth scroll[1]
 - Se EmailJS for habilitado, é necessário configurar SERVICE_ID, TEMPLATE_ID e PUBLIC_KEY[1]
 - A separação lógica do código deve seguir: Hooks (lógica), UI Components (elementos visuais), Layout Components (estrutura) e Modals (sobrecamadas)[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/38332461/ae8eae20-207b-426c-8dfb-932ebd48e3ec/Prompt-Landing-Page.pdf)
